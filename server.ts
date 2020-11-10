@@ -1,3 +1,5 @@
+// Please start the server and use any browser to check the API function
+
 const express = require('express');
 const app = express();
 

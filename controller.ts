@@ -1,3 +1,6 @@
+// This is the main function for requesting the third-party API of KYC checking
+// Please run the server.ts script for checking
+
 var axios = require('axios');
 var querystring = require('querystring');
 
